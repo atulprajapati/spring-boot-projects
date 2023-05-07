@@ -1,4 +1,4 @@
-package com.takshmind.template;
+package com.takshmind.spring.sample.template;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
